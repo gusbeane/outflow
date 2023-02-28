@@ -47,4 +47,6 @@ WARNINGS
 MakeNewDisk/
 uses-machines.txt
 *-usedvalues
+sfrrate.txt
+hosts
 
